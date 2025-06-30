@@ -1,3 +1,5 @@
+
+//Write a Java program to create a stack using Stack collection.
 import java.util.Stack;
 
 public class Main{
